@@ -1,76 +1,68 @@
-# Hey, I'm Jithin C 👋
+# Hey, I'm Jithin C 👋  
 
-## 🔗 Links
-- Resume: [View my resume](https://drive.google.com/file/d/12kFdPXsy0xl_cSGhanGnWIchyk_eKQYz/view)
-- Gmail: [jithin3290@gmail.com](mailto:jithin3290@gmail.com)
-- Portfolio: [https://jithin3290.github.io/portfolio/](https://jithin3290.github.io/portfolio/)
-- LinkedIn: [https://www.linkedin.com/in/jithin-c-9bb421313/](https://www.linkedin.com/in/jithin-c-9bb421313/)
-- LeetCode: [https://leetcode.com/u/Jithin2255/](https://leetcode.com/u/Jithin2255/)
-
----
-
-## 🚀 About Me
-I'm a passionate Full-Stack Developer specializing in Python technologies. I love turning ideas into scalable and interactive web applications. My expertise spans both front-end and back-end development, allowing me to build complete, end-to-end solutions.
+## 🔗 Links  
+- **Resume:** [View my resume](https://drive.google.com/file/d/12kFdPXsy0xl_cSGhanGnWIchyk_eKQYz/view)  
+- **Email:** [jithin3290@gmail.com](mailto:jithin3290@gmail.com)  
+- **Portfolio:** https://jithin3290.github.io/portfolio/  
+- **LinkedIn:** https://www.linkedin.com/in/jithin-c-9bb421313/  
+- **LeetCode:** https://leetcode.com/u/Jithin2255/  
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
-### 💻 Operating Systems
-- Windows
-- Linux (Ubuntu)
-- macOS
-
-### 💻 Languages
-- HTML5
-- JavaScript
-- TypeScript
-- Python
-
-### 💻 Front-End Development
-- HTML5, CSS3
-- Bootstrap
-- React, Vite
-- TailwindCSS
-- React Router
-- React Hook Form
-- Redux
-- Chart.js
-
-### 💻 Back-End Development
-- Swagger (API docs)
-- Django / FastAPI
-
-### 💻 Databases
-- PostgreSQL
-- MySQL
-- Firebase
-
-### 💻 Testing & API Tools
-- Postman
-
-### 🎨 Design Tools
-- Figma
+## 🚀 About Me  
+Full Stack Developer focused on Python and modern JavaScript ecosystems.  
+I enjoy building complete applications from backend logic to clean, responsive UIs.  
 
 ---
 
-## 🔗 Quick Links
-- Resume — [View my resume](https://drive.google.com/file/d/12kFdPXsy0xl_cSGhanGnWIchyk_eKQYz/view)
-- Gmail — [jithin3290@gmail.com](mailto:jithin3290@gmail.com)
-- Portfolio — [https://jithin3290.github.io/portfolio/](https://jithin3290.github.io/portfolio/)
-- LinkedIn — [https://www.linkedin.com/in/jithin-c-9bb421313/](https://www.linkedin.com/in/jithin-c-9bb421313/)
-- LeetCode — [https://leetcode.com/u/Jithin2255/](https://leetcode.com/u/Jithin2255/)
+## 🛠️ Tech Stack  
+
+### 💻 Operating Systems  
+- Windows  
+- Linux (Ubuntu)  
+- macOS  
+
+### 💻 Languages  
+- Python  
+- JavaScript  
+- TypeScript  
+- HTML5  
+
+### 💻 Front-End  
+- React  
+- Vite  
+- TailwindCSS  
+- Bootstrap  
+- Redux  
+- React Router  
+- React Hook Form  
+- Chart.js  
+
+### 💻 Back-End  
+- Django  
+- FastAPI  
+- DRF Spectacular  
+- Swagger / OpenAPI  
+
+### 💻 Databases  
+- PostgreSQL  
+- MySQL  
+- Firebase  
+
+### 🔧 Tools  
+- Postman  
+- Git  
+- Figma  
 
 ---
 
-## About (repo metadata)
-No description, website, or topics provided.  
-(Repository metadata such as Readme, Activity, Stars, Watchers, Forks, Releases, Packages and the Report repository link are shown automatically by GitHub on the repository page — you don't need to add those to the README.)
+## 📈 Stats  
 
----
+> If the cards do not load, scroll down for the fix.
 
-## 📈 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jithin3290&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jithin3290&show_icons=true&count_private=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jithin3290&layout=compact&theme=tokyonight)
 
 ---
 
