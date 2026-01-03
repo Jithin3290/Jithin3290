@@ -1,7 +1,7 @@
 # Hey, I'm Jithin C 👋  
 
 ## 🔗 Links  
-- **Resume:** [View my resume](https://drive.google.com/file/d/12kFdPXsy0xl_cSGhanGnWIchyk_eKQYz/view)  
+- **Resume:** [View my resume](https://drive.google.com/file/d/1RX7kW_OJNKH1f7MEy5vDgokb5DsvbUKP/view)  
 - **Email:** [jithin3290@gmail.com](mailto:jithin3290@gmail.com)  
 - **Portfolio:** https://jithin3290.github.io/portfolio/  
 - **LinkedIn:** https://www.linkedin.com/in/jithin-c-9bb421313/  
